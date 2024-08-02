@@ -4,4 +4,4 @@
 
 **These repositories are not supported and are not involving in any way the government agency employing me. My official records are stored in other databases reviewed by peers.**
 
-**Opinions about facts, scientific theories or people expressed in these repositories are mines only.**
+**Opinions about facts, scientific theories, organizations or people expressed in these repositories are mines only.**
