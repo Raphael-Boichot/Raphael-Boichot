@@ -4,4 +4,4 @@ These repositories contain supporting informations and raw data from some of my 
 
 ### What I'm searching for
 
-I'm searching for a [“LaPochee”（ラポッシュ）camera module](https://time-space.kddi.com/ketaizukan/1999/11.html) accompanying [the THZ43 Chiaro cell phone by Mitsubishi](https://time-space.kddi.com/ketaizukan/1999/10.html) for disassembly, if you own one, whatever the state, even not for sale, please contact me.
+I'm searching for a [“LaPochee”（ラポッシュ）camera module](https://time-space.kddi.com/ketaizukan/1999/11.html) accompanying [the THZ43 Chiaro cell phone by Mitsubishi](https://time-space.kddi.com/ketaizukan/1999/10.html) for documenting internal parts, if you own one, whatever the state, even not for sale, please contact me.
