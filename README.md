@@ -1,5 +1,7 @@
 ## Disclaimer
 
-**These repositories contain supporting informations and raw data from some of my scientific papers, unpublished codes and databases deserving a public release, some teaching supports and a bunch of random projects around programming, reverse engineering and electronics.**
+These repositories contain supporting informations and raw data from some of my scientific papers, unpublished codes and databases deserving a public release, some teaching supports and a bunch of random projects around programming, reverse engineering and electronics.
 
-**These repositories are not supported by or are not involving the government agency I'm working for. Opinions about facts, scientific theories, organizations, projects or people expressed in these repositories are only mines.**
+## wish list
+
+I'm searching for a [“LaPochee” camera module](https://time-space.kddi.com/ketaizukan/1999/11.html) accompanying [the THZ43 Chiaro cell phone by Mitsubishi](https://time-space.kddi.com/ketaizukan/1999/10.html) for disassembly, if you own one, even broken, contact me.
